@@ -1,1 +1,1 @@
-# subject-computer-vision-basics/lab0
+# subject-computer-vision-basics
